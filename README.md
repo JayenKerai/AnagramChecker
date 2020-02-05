@@ -6,7 +6,7 @@ Write a program to check if two given String is Anagram of each other. Your func
 Please write the unit tests for your solution using any of the unit testing framework.
 
 ## Dependencies used
-* JUnit 5.6.0 https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api
+* JUnit 5.5.2 https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api
 
 ## Asssumptions
 1. Two null strings are anagrams
